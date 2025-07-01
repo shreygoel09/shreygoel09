@@ -1,5 +1,5 @@
 👋 Hi I'm Shrey!<br />
-🧬 I'm working on generative models for biology
+🧬 I'm working on generative models for biology<br />
 📫 Feel free to [reach out](mailto:shrey.goel@duke.edu)!
 
 <!--
