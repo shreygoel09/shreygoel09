@@ -1,4 +1,4 @@
-👋 Hi I'm Shrey!
+👋 Hi I'm Shrey!<br />
 🧬 I'm working on generative models for biology
 📫 Feel free to [reach out](mailto:shrey.goel@duke.edu)!
 
